@@ -1,4 +1,3 @@
-; $Id$
 name = Theme Blocks
 description = Allows themes to define blocks
 core = 6.x

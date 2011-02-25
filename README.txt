@@ -1,4 +1,3 @@
- $Id$
 
  THEME BLOCKS
  ------------
